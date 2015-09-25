@@ -2,6 +2,8 @@ package git;
 
 public class C3 {
 	
-	public void m2(){}
+	public int m2(){
+		return 1;
+	}
 
 }
